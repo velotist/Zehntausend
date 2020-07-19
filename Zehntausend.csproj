@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Zehntausend.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="UserStoriesZehntausend.txt" />
