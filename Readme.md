@@ -12,7 +12,7 @@ Quelle: https://de.wikipedia.org/wiki/Zehntausend_(Spiel)
 
 ### Tech
 
-Zehntausend uses just the System Framwork of .NET:
+Zehntausend uses just the "System" Namespace of .NET Framework:
 
 * [C#] - using System.*
 
