@@ -1,0 +1,51 @@
+User Stories für Chicago – Iteration #1
+
+User Story Vorlage:
+Als <Rolle/Anwendertyp> möchte ich <Ziel/Wunsch/Funktion>, um <Nutzen>
+
+Titel: Spieler anlegen
+Story:
+Als Benutzer möchte ich mehrere Spieler anlegen, um gegeneinander spielen zu können
+Akzeptanzkriterien:
+•	zwischen zwei und vier Spieler
+
+Titel: Namen anlegen
+Story:
+Als Benutzer möchte ich Spielern Namen vergeben, um sie auseinanderhalten zu können
+Akzeptanzkriterien:
+•	nur Vornamen
+•	bis zu 50 Zeichen
+
+
+Titel: Eine Rangliste anlegen
+Story:
+Als Benutzer möchte ich eine Rangliste mit den gewonnenen Spielen haben, um den Besten ermitteln zu können
+Akzeptanzkriterien:
+•	Name und Punkte
+
+Titel: Spiel mehrmals spielen
+Story:
+Als Benutzer möchte ich das Spiel mehrmals spielen können, um eine Gewinnliste anlegen zu können
+Akzeptanzkriterien:
+•	Gewinnliste mit Spielernamen und deren Punkten
+•	Wiederholung des Spieles
+
+Titel: Einen Würfel würfeln
+Story:
+Als Benutzer möchte ich einen Würfel würfeln, um eine Zahl zu erhalten
+Akzeptanzkriterien:
+•	als Zahlen sind zugelassen Zahlen zwischen 1 und 6
+
+User Stories für Chicago – Iteration #2
+
+Titel: Würfelbecher
+Story:
+Als Benutzer möchte ich einen Würfelbecher haben, in dem ich mehrere Würfel gleichzeitig würfeln kann
+Akzeptanzkriterien:
+•	ein bis fünf Würfel
+
+Titel:
+Story:
+
+Akzeptanzkriterien:
+•	
