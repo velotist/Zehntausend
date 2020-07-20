@@ -8,6 +8,8 @@ namespace Zehntausend
 
         public int Id { get; set; }
 
+        public int Points { get; set; }
+
         public Player(int id, string name)
         {
             Id = id;
