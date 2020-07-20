@@ -4,25 +4,9 @@ namespace Zehntausend
 {
     class Player
     {
-        private string name;
-        private int id;
-        public string Name
-        {
-            get => name;
-            set
-            {
-                name = value;
-            }
-        }
+        public string Name { get; set; }
 
-        public int Id
-        {
-            get => id;
-            set
-            {
-                id = value;
-            }
-        }
+        public int Id { get; set; }
 
         public Player(int id, string name)
         {

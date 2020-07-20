@@ -6,17 +6,12 @@ namespace Zehntausend
     {
         static void Main(string[] args)
         {
-            Game chicago = new Game();
-            int numberOfPlayers = chicago.GetNumberOfPlayers();
+            Game zehntausend = new Game();
+            int numberOfPlayers = zehntausend.GetNumberOfPlayers();
 
-            for (int i = 1; i <= numberOfPlayers; i++)
-            {
-                Console.Write("Spielername {0}: ", i);
-                Player player = new Player(i, Console.ReadLine());
-                chicago.ListOfPlayers.Add(player);
-            }
+            zehntausend.GivePlayersName(numberOfPlayers);
 
-            foreach (Player player in chicago.ListOfPlayers)
+            foreach (Player player in zehntausend.ListOfPlayers)
             {
                 Console.WriteLine(player.Id + "  " + player.Name);
             }
