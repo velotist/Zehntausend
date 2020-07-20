@@ -21,12 +21,10 @@ Zehntausend uses just the "System" Namespace of .NET Framework:
 #### Building for source
 For production release:
 
-Generating pre-built zip archives for distribution:
 
 ### Todos
 
- - Write MORE Tests
- - Add Night Mode
+ - 
 
 License
 ----
