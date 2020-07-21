@@ -7,45 +7,68 @@ Titel: Spieler anlegen
 Story:
 Als Benutzer möchte ich mehrere Spieler anlegen, um gegeneinander spielen zu können
 Akzeptanzkriterien:
-•	zwischen zwei und vier Spieler
+	* zwischen zwei und vier Spieler
+Status:
+	* Erledigt
 
 Titel: Namen anlegen
 Story:
 Als Benutzer möchte ich Spielern Namen vergeben, um sie auseinanderhalten zu können
 Akzeptanzkriterien:
-•	nur Vornamen
-•	bis zu 50 Zeichen
-
+	* nur Vornamen
+	* bis zu 50 Zeichen
+Status:
+	* Erledigt
 
 Titel: Eine Rangliste anlegen
 Story:
 Als Benutzer möchte ich eine Rangliste mit den gewonnenen Spielen haben, um den Besten ermitteln zu können
 Akzeptanzkriterien:
-•	Name und Punkte
+	* Name und Punkte
+Status:
+	* Offen
 
 Titel: Spiel mehrmals spielen
 Story:
 Als Benutzer möchte ich das Spiel mehrmals spielen können, um eine Gewinnliste anlegen zu können
 Akzeptanzkriterien:
-•	Gewinnliste mit Spielernamen und deren Punkten
-•	Wiederholung des Spieles
+	* Gewinnliste mit Spielernamen und deren Punkten
+	* Wiederholung des Spieles
+Status:
+	* Offen
 
-Titel: Einen Würfel würfeln
+Titel: Spielstand speichern
 Story:
-Als Benutzer möchte ich einen Würfel würfeln, um eine Zahl zu erhalten
+Als Benutzer möchte ich vor Beendigung des Spieles den Spielstand speichern, um an diesem
+Punkt weiterspielen zu können.
 Akzeptanzkriterien:
-•	als Zahlen sind zugelassen Zahlen zwischen 1 und 6
+	* Name, Id und Punkte sollen gespeichert werden
+	* als Dateiformat soll csv verwendet werden
+Status:
+	* Erledigt
 
 User Stories für Chicago – Iteration #2
+
+Titel: Würfel
+Story:
+Als Benutzer möchte ich per Zufall bei einem Würfel die Augen ermitteln
+Akzeptanzkriterien:
+	* die Augen sollen eine Anzahl von sechs haben
+Status:
+	* Offen
 
 Titel: Würfelbecher
 Story:
 Als Benutzer möchte ich einen Würfelbecher haben, in dem ich mehrere Würfel gleichzeitig würfeln kann
 Akzeptanzkriterien:
-•	ein bis fünf Würfel
+	* ein bis sechs Würfel
+Status:
+	* Offen
 
 Titel:
 Story:
 
 Akzeptanzkriterien:
-•	
+	* 
+Status:
+	* 
